@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_cards/widgets/card_item.dart';
 
-//https://www.youtube.com/watch?v=zlfScWSVblU
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
